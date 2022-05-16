@@ -12,4 +12,4 @@ Market Basket Analysis Report: <a href="https://github.com/GSJv2-1/PredictingCus
 
 Data Mining Presentation: <a href="https://github.com/GSJv2-1/PredictingCustomerPreferences/blob/main/C3T5/Grant_J_Data_Mining_Presentation.pptx">Presentation</a>
 
-Lessons learned: <a href="https://github.com/GSJv2-1/PredictingCustomerPreferences/blob/main/C3T5/Grant_J_Lessons_Learned.docx">The Takeaway</a>
+Lessons Learned: <a href="https://github.com/GSJv2-1/PredictingCustomerPreferences/blob/main/C3T5/Grant_J_Lessons_Learned.docx">The Takeaway</a>
